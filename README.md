@@ -127,8 +127,8 @@ JSON example:
     { "data": {
       "title": "Title",
       "message": "Message",
-      "sound": true,
-      "vibrate": "sound.wav",
+      "vibrate": true,
+      "sound": "sound.wav",
       },
       "registration_ids": ["4", "8", "15", "16", "23", "42"]
     }
